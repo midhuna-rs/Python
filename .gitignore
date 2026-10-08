@@ -1,0 +1,6 @@
+__pycache__/
+*.txt
+local_backup/
+remote_conditional.ipynb
+
+local_originals/
